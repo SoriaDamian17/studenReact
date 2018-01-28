@@ -1,0 +1,30 @@
+{
+  "name": "studenreact",
+  "version": "1.0.0",
+  "description": "example of studen by react js and express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoriaDamian17/studenReact.git"
+  },
+  "author": "Damian Soria",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SoriaDamian17/studenReact/issues"
+  },
+  "homepage": "https://github.com/SoriaDamian17/studenReact#readme",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babelify": "^8.0.0",
+    "browserify": "^15.2.0",
+    "create-react-class": "^15.6.2",
+    "express": "^4.16.2",
+    "node-jsx": "^0.13.3",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-engine": "^4.5.0"
+  }
+}
